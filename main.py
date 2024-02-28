@@ -32,7 +32,7 @@ class Passenger:
         return self._email
 
     def set_phoneNo(self, phoneNo):
-        self._phoneNo = new_phone_no
+        self._phoneNo = phone_no
 
     def get_phoneNo(self):
         return self._phoneNo
