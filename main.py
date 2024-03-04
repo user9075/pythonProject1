@@ -233,7 +233,7 @@ class Manager:
                f"Salary: {self._salary} usd"
 
 
-manager1 = Manager("Marie", "Lonberg", "56878Gh8f", "Marketing", 30000)
+manager1 = Manager("Marie", "Lonberg", "56878Gh8f", "Operations", 30000)
 print(manager1)
 
 from datetime import datetime
